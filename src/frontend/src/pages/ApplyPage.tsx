@@ -523,7 +523,7 @@ export default function ApplyPage() {
                         className="font-semibold text-sm mt-2"
                         style={{ color: "#0F2A44" }}
                       >
-                        brbiindia@upi
+                        blon@ptyes
                       </p>
                       <p
                         className="font-heading text-lg font-bold"
@@ -542,7 +542,7 @@ export default function ApplyPage() {
                         </p>
                         <p className="text-xs" style={{ color: "#4B5563" }}>
                           Use PhonePe, GPay, Paytm, or any UPI app to scan the
-                          QR or pay to UPI ID: <strong>brbiindia@upi</strong>
+                          QR or pay to UPI ID: <strong>blon@ptyes</strong>
                         </p>
                       </div>
                       <div className="space-y-2">

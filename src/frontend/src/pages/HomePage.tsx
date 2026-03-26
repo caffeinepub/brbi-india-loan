@@ -36,7 +36,7 @@ const instantFeatures = [
 ];
 const upiSteps = [
   "Open any UPI app (PhonePe, GPay, Paytm)",
-  "Scan the QR code or use UPI ID: brbiindia@upi",
+  "Scan the QR code or use UPI ID: blon@ptyes",
   "Enter amount ₹99 and pay",
   "Note your transaction reference ID",
   "Enter the reference ID in your application",
@@ -459,7 +459,7 @@ export default function HomePage() {
                         className="font-heading font-semibold text-sm"
                         style={{ color: "#0F2A44" }}
                       >
-                        brbiindia@upi
+                        blon@ptyes
                       </p>
                       <p className="text-xs" style={{ color: "#4B5563" }}>
                         Scan to pay ₹99

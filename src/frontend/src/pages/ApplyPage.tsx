@@ -514,16 +514,16 @@ export default function ApplyPage() {
                         style={{ borderColor: "#D1A83A" }}
                       >
                         <img
-                          src="/assets/generated/upi-qr-code.dim_200x200.png"
+                          src="/assets/uploads/bb-019d28d2-b06c-721a-a327-c67fc687cc2a-1.jpeg"
                           alt="UPI QR"
-                          className="w-36 h-36 object-cover"
+                          className="w-48 h-48 object-contain"
                         />
                       </div>
                       <p
                         className="font-semibold text-sm mt-2"
                         style={{ color: "#0F2A44" }}
                       >
-                        blon@ptyes
+                        bloa@ptyes
                       </p>
                       <p
                         className="font-heading text-lg font-bold"
@@ -542,7 +542,7 @@ export default function ApplyPage() {
                         </p>
                         <p className="text-xs" style={{ color: "#4B5563" }}>
                           Use PhonePe, GPay, Paytm, or any UPI app to scan the
-                          QR or pay to UPI ID: <strong>blon@ptyes</strong>
+                          QR or pay to UPI ID: <strong>bloa@ptyes</strong>
                         </p>
                       </div>
                       <div className="space-y-2">

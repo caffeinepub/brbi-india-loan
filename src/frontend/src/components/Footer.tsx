@@ -134,7 +134,7 @@ export default function Footer() {
           </p>
           <p className="text-xs text-center" style={{ color: "#CBD5E1" }}>
             BRBI India Loan is a registered NBFC. RBI Reg. No. XXXXXXXX. Loans
-            subject to credit approval. Platform fee of ₹99 is non-refundable.
+            subject to credit approval. Platform fee of ₹9 is non-refundable.
           </p>
         </div>
       </div>

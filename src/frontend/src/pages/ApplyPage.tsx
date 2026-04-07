@@ -503,7 +503,7 @@ export default function ApplyPage() {
                       Application ID: #{applicationId?.toString()}
                     </p>
                     <p className="text-xs mt-1" style={{ color: "#4B5563" }}>
-                      Please pay the ₹99 platform fee to proceed with your loan
+                      Please pay the ₹9 platform fee to proceed with your loan
                       application.
                     </p>
                   </div>
@@ -529,7 +529,7 @@ export default function ApplyPage() {
                         className="font-heading text-lg font-bold"
                         style={{ color: "#D1A83A" }}
                       >
-                        ₹99
+                        ₹9
                       </p>
                     </div>
                     <div className="flex-1 space-y-3">

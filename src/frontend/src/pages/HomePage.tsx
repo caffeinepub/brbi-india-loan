@@ -37,7 +37,7 @@ const instantFeatures = [
 const upiSteps = [
   "Open any UPI app (PhonePe, GPay, Paytm)",
   "Scan the QR code or use UPI ID: bloa@ptyes",
-  "Enter amount ₹99 and pay",
+  "Enter amount ₹9 and pay",
   "Note your transaction reference ID",
   "Enter the reference ID in your application",
 ];
@@ -54,7 +54,7 @@ const applySteps = [
   },
   {
     icon: IndianRupee,
-    title: "Pay Platform Fee ₹99",
+    title: "Pay Platform Fee ₹9",
     desc: "Pay the one-time processing fee via UPI and enter your transaction ID.",
   },
   {
@@ -105,7 +105,7 @@ const testimonials = [
   {
     name: "Anita Patel",
     city: "Ahmedabad",
-    text: "The ₹99 fee was worth it. Got my loan within 6 hours. Excellent service!",
+    text: "The ₹9 fee was worth it. Got my loan within 6 hours. Excellent service!",
     rating: 5,
   },
 ];
@@ -428,11 +428,11 @@ export default function HomePage() {
                       className="font-heading text-2xl font-bold mb-2"
                       style={{ color: "#111827" }}
                     >
-                      Pay ₹99 via UPI
+                      Pay ₹9 via UPI
                     </h3>
                     <p className="text-sm mb-4" style={{ color: "#4B5563" }}>
                       A one-time non-refundable platform processing fee of just
-                      ₹99. Pay securely via UPI.
+                      ₹9. Pay securely via UPI.
                     </p>
                     <Button
                       onClick={() => navigate({ to: "/apply" })}
@@ -462,7 +462,7 @@ export default function HomePage() {
                         bloa@ptyes
                       </p>
                       <p className="text-xs" style={{ color: "#4B5563" }}>
-                        Scan to pay ₹99
+                        Scan to pay ₹9
                       </p>
                     </div>
                   </div>

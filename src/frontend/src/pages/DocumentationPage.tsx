@@ -77,7 +77,7 @@ const tableRows = [
   ["Loan Amount", "₹10,000 – ₹5,00,000", "₹5,000 – ₹1,00,000"],
   ["Tenure", "12 – 60 months", "3 – 24 months"],
   ["Interest Rate", "10.5% – 22% p.a.", "14% – 28% p.a."],
-  ["Platform Fee", "₹99 (one-time)", "₹99 (one-time)"],
+  ["Platform Fee", "₹9 (one-time)", "₹9 (one-time)"],
   ["Processing Time", "4–6 hours", "1–2 hours"],
   ["Collateral", "Not Required", "Not Required"],
   ["Prepayment Penalty", "Nil", "Nil"],
@@ -85,8 +85,8 @@ const tableRows = [
 
 const faqs = [
   {
-    q: "What is the one-time platform fee of ₹99?",
-    a: "The ₹99 platform fee covers the cost of processing your loan application, KYC verification, and credit evaluation. It is non-refundable and must be paid via UPI before your application is reviewed.",
+    q: "What is the one-time platform fee of ₹9?",
+    a: "The ₹9 platform fee covers the cost of processing your loan application, KYC verification, and credit evaluation. It is non-refundable and must be paid via UPI before your application is reviewed.",
   },
   {
     q: "How quickly will I get my loan after approval?",
@@ -125,7 +125,7 @@ const termsItems = [
   },
   {
     title: "Platform Fee",
-    text: "The ₹99 platform fee is non-refundable and must be paid before loan processing begins. It covers application processing, KYC verification, and credit assessment costs.",
+    text: "The ₹9 platform fee is non-refundable and must be paid before loan processing begins. It covers application processing, KYC verification, and credit assessment costs.",
   },
   {
     title: "Prepayment",
